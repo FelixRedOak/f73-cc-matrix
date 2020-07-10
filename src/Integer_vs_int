@@ -1,0 +1,13 @@
+Integer - Vorteile
+- ist ein normales "Object"
+- kann undefiniert sein (null)
+- kann z.B. in Listen verwendet werden
+- Typ ist in Klassenhierarchie eingebettet (Oberklasse "Number")
+
+Integer - Nachteile
+- ist nicht mit "0" initialisiert
+- kann undefiniert sein (null)
+- Umgang mit "null" ist in Java unkomfortabel
+
+Fazit: Es kommt drauf an, was man machen will
+persönlich: für Indizes immer "int"

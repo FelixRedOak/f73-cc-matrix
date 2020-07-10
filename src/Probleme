@@ -1,0 +1,3 @@
+- Column mutable, Row/Matrix nicht mutable
+- Benennung number_At_
+- 2. Schleife in multiply
